@@ -1,0 +1,14 @@
+.brands-integration {
+  width: 80%;
+  margin: auto;
+  height: 334px;
+  border-radius: 12px;
+  /* z-index: 1; */
+}
+.bi-logos {
+  height: 160px;
+  border-radius: 24px;
+  border: none;
+  margin: 69px;
+  cursor: pointer;
+}

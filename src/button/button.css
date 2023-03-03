@@ -1,0 +1,22 @@
+.button {
+  padding: 15px 55px;
+  font-size: 24px;
+  /* background-color: aqua; */
+  width: max-content;
+  border-radius: 60px;
+  cursor: pointer;
+}
+.primary-btn {
+  color: var(--white);
+  background-color: var(--btn-bg);
+}
+.secondary-btn {
+  border: 2px solid var(--white);
+}
+.tf-left-secondary-btn {
+  margin-left: 36px;
+}
+.primary-btn:hover {
+  color: var(--white);
+  background-color: #3653f8;
+}
